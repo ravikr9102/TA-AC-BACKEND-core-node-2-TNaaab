@@ -10,7 +10,7 @@ Desktop
     - server(dir)
       - app.js
 
-You are currently in server.js
+You are currently in app.js
 
 Write code to
   - get relative path of `index.js` 
